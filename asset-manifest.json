@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/News-Deer/static/css/main.31d6cfe0.css",
+    "main.js": "/News-Deer/static/js/main.ecb28b3f.js",
+    "static/js/787.9287e106.chunk.js": "/News-Deer/static/js/787.9287e106.chunk.js",
+    "static/media/loading.gif": "/News-Deer/static/media/loading.92650625f73c10390caa.gif",
+    "index.html": "/News-Deer/index.html",
+    "main.ecb28b3f.js.map": "/News-Deer/static/js/main.ecb28b3f.js.map",
+    "787.9287e106.chunk.js.map": "/News-Deer/static/js/787.9287e106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ecb28b3f.js"
+  ]
+}
